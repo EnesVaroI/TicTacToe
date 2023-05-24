@@ -1,0 +1,8 @@
+C:\Users\Mehmet\source\repos\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\Mehmet\source\repos\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\Mehmet\source\repos\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\Mehmet\source\repos\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Mehmet\source\repos\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet\source\repos\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\Mehmet\source\repos\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
